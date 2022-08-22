@@ -14,7 +14,7 @@ Back-end - [https://github.com/danielphan-dp/opencare-be](https://github.com/dan
 2. Change directory to repo's root directory: `cd <path-to-root-of-repo>`.
 3. Create `.env` file in root directory and add the following content:
     ````
-    # The three lines below are the content of the file '.env.local'.
+    # The three lines below are the content of the file '.env'.
     PORT=8000
     DATABASE=place-holder-for-mongodb-uri
     JWT_SECRET=place-holder-for-a-strong-jwt-secret-key
